@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20210203</CreaDate><CreaTime>13070100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\EucDistance" Date="20210203" Time="130701">EucDistance E:\project_drmalek\sources\Tarakom.shp E:\project_drmalek\sources\EucDist_Tarakom1.tif # 23.7358065111749 # PLANAR # #</Process></lineage></DataProperties></Esri></metadata>

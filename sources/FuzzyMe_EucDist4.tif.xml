@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20210203</CreaDate><CreaTime>13070200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\FuzzyMembership" Date="20210203" Time="130702">FuzzyMembership E:\project_drmalek\sources\EucDist_TaminSo1.tif E:\project_drmalek\sources\FuzzyMe_EucDist4.tif "LINEAR 950 200" NONE</Process></lineage></DataProperties></Esri></metadata>
